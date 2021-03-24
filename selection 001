@@ -1,0 +1,7 @@
+number1=input("please enter a number")
+number2=input("please enter a diffrent number")
+if (number1>number2):
+  print ("here you go.", number2, "and", number1, ".")
+else:
+  print ("here you go.", number1, "and", number2, ".")
+     
